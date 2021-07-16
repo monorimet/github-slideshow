@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+My SISTER hung me on a hook, once... Once.
 Use the left arrow to go back!
